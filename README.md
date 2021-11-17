@@ -1,10 +1,12 @@
-﻿# The City
+# The City
 
 A city street in Unity
 
 ## Description
 
 This project shows a busy city street, which is brought to life through the introduction of a variety of animated elements and ambient sounds. "The City" is a simple project for learning purposes.
+
+![Demo](https://i.imgur.com/YGrXQsZ.gif)
 
 ## Dependencies
 
